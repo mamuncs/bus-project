@@ -6,7 +6,7 @@ you can use for mysql xampp server or others
 Step follow..
 # 1.Crate database on local server.
 # 2.Create Database name 'info'
-#3.Then import the database on databases folder
+# 3.Then import the database on databases folder
 
 #working procedure...
 first open the main.py file.
