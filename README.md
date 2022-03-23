@@ -18,7 +18,8 @@ if open the python file
 you have to import and install all package or module correctly.
 
 ..so this is an complete bus ticket booking system project.
-The Author.
-# Al-Mamun Molla
-# BSC in DUET 
-# Dept of CSE
+# Verson 2.8.0
+# The Author.
+ Al-Mamun Molla
+ BSC in DUET 
+Dept of CSE
